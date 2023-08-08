@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524492193413",
+    "project_id": "vibevault-c85e5",
+    "storage_bucket": "vibevault-c85e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524492193413:android:6ed2b5799db11eac5533ec",
+        "android_client_info": {
+          "package_name": "com.social.vibevault"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524492193413-8h90nv2mbtsdl96eukg3bpgr1102aug4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNRP91GGi0ua3tC9-WRNbALhg79neqNiI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524492193413-5d0ja6ojiga47i6hh635847a43docb38.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
